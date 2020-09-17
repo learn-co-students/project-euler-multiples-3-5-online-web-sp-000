@@ -15,6 +15,6 @@ class Multiples
   end
 
   def sum_multiples
-    collect_multiples(@limit).sum
+    collect_multiples.sum
   end
 end
