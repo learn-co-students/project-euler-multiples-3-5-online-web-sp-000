@@ -24,6 +24,7 @@ class Multiples
 
 end
 
+# FOR TESTS
 # multiples = Multiples.new(10)
 # puts multiples.collect_multiples.inspect
 # puts multiples.sum_multiples.inspect

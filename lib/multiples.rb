@@ -16,4 +16,5 @@ def sum_multiples(limit)
     collect_multiples(limit).sum
 end
 
+# FOR TESTS
 # puts collect_multiples(100).inspect
